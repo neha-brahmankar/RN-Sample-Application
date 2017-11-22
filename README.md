@@ -23,7 +23,7 @@ On the command prompt run the following commands
 ```sh
 $ git clone -b RN https://github.com/nehab05a/RN-Sample-Application
 
-$ cd react-native-assignment/
+$ cd RN-Sample-Application/
 
 $ npm install
   or
